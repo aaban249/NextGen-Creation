@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NextGen Creator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background: #111;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    section {
+      padding: 2rem;
+    }
+    .services {
+      background: #fff;
+      border-radius: 10px;
+      padding: 1rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #111;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>NextGen Creator</h1>
+    <p>Logo | IG DP | Reels & YouTube Thumbnails</p>
+  </header>
+
+  <section>
+    <div class="services">
+      <h2>My Services</h2>
+      <ul>
+        <li>Custom Logo Design</li>
+        <li>Instagram Profile Pictures</li>
+        <li>Reel & YouTube Thumbnails</li>
+      </ul>
+    </div>
+
+    <div class="services">
+      <h2>Portfolio</h2>
+      <p>Check out my sample work on <a href="https://instagram.com/yourpage" target="_blank">Instagram</a></p>
+    </div>
+
+    <div class="services">
+      <h2>Contact</h2>
+      <p>Email: yourname@gmail.com</p>
+      <p>Instagram: <a href="https://instagram.com/yourpage" target="_blank">@yourpage</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 NextGen Creator. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
